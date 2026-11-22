@@ -30,7 +30,6 @@ I am a Computer Engineering graduate and Associate Systems Developer with one ye
   <img src="https://img.shields.io/badge/HTML5-171717?style=for-the-badge&logo=html5&logoColor=8B5CF6" />
   <img src="https://img.shields.io/badge/CSS3-171717?style=for-the-badge&logo=css&logoColor=8B5CF6" />
   <img src="https://img.shields.io/badge/JavaScript-171717?style=for-the-badge&logo=javascript&logoColor=8B5CF6" />
-  <img src="https://img.shields.io/badge/React-171717?style=for-the-badge&logo=react&logoColor=8B5CF6" />
   <img src="https://img.shields.io/badge/Node.js-171717?style=for-the-badge&logo=nodedotjs&logoColor=8B5CF6" />
 </p>
 
