@@ -1,7 +1,7 @@
 
 <h1 align="center">Francis Erick Datu</h1>
 
-<h3 align="center">Associate Systems Developer | Software Engineer</h3>
+<h3 align="center">Associate Systems Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=8B5CF6&center=true&vCenter=true&width=700&lines=C%23+%7C+.NET+%7C+WPF;SQL+%7C+PostgreSQL;Software+Development+%26+Engineering" />
